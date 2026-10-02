@@ -97,5 +97,8 @@ For craftsmen, Trust Made provides a professional profile, portfolio, verificati
 - Review the complete platform journey from request to post-delivery.
 - Finalize the project structure and prepare the complete deliverable.
 
-### Live Project
-[View Project](https://www.figma.com/design/2JUHTobHNjmJCgzem0Nfkb/Untitled?node-id=0-1&t=Ncuf3E8hZ3cSfajT-1)
+## Project Links
+
+* **UX Research & Documentation:** [View UX Files]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1vpQOsfOGRbRsSeTFAK3pTWx3sSOWPEEd?usp=drive_link))
+* **Figma Design:** [View Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/design/2JUHTobHNjmJCgzem0Nfkb/Untitled?node-id=0-1&t=Ncuf3E8hZ3cSfajT-1))
+
