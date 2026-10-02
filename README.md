@@ -1,11 +1,11 @@
 # UI_UX_Team2_Trust_Made
 A trusted platform connecting customers with skilled craftsmen for custom furniture, from selection and design to quality, delivery, warranty, and maintenance.
 ## Team Members
-- **[Rahma Sadoon]**
-- **[Basmala Emad]**
-- **[Abrar Ali]**
-- **[Hagar Abdelsamie]**
-- **[Merna Tharwat]**
+- **[Rahma  Mohamed Sadoon]**
+- **[Basmala Emad Abdelsamie]**
+- **[Abrar Rabie Abdullah]**
+- **[Hagar Abdelsamie Abdelsatar]**
+- **[Merna Tharwat Isaaac]**
 
 ---
 
@@ -96,3 +96,6 @@ For craftsmen, Trust Made provides a professional profile, portfolio, verificati
 - Design the dispute management flow using documented project data.
 - Review the complete platform journey from request to post-delivery.
 - Finalize the project structure and prepare the complete deliverable.
+
+### Live Project
+[View Project](https://www.figma.com/design/2JUHTobHNjmJCgzem0Nfkb/Untitled?node-id=0-1&t=Ncuf3E8hZ3cSfajT-1)
